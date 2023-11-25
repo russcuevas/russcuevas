@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" border-radius="50"/>
-  
+  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" border-radius="50px"/>
 </div>
 
 <div id="badges">
