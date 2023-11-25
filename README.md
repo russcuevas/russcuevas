@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" border-radius="50px"/>
+  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" style="border-radius: 50%;" />
 </div>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
