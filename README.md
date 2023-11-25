@@ -1,9 +1,4 @@
 ### 
-<h1 align="center">
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <!--
 **russcuevas/russcuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" style="border-radius: 50%;" />
+  <img src="https://c.tenor.com/N3tywP_DkwoAAAAC/v-is-for-vendetta-mask-anonymous-mask.gif" width="100" />
 </div>
 
 <div align="center"> 
